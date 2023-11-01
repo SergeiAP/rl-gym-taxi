@@ -1,0 +1,12 @@
+name: rl-gym-taxi
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - seaborn
+  - gymnasium
+  - numpy
+  - ipykernel
+  - matplotlib
+  - tqdm
